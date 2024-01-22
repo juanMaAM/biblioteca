@@ -29,7 +29,7 @@ Salida:
 ~~~
 ## Etapa 3. Diseño de la solución
 Diagrama de la clase
-![]([https://github.com/juanMaAM/Final_Project/blob/main/T5-FinalProject.png](https://github.com/juanMaAM/biblioteca/blob/main/Captura%20de%20pantalla%202024-01-22%20125719.png)
+![]([https://github.com/juanMaAM/Final_Project/blob/main/T5-FinalProject.png](https://github.com/juanMaAM/biblioteca/blob/main/Captura%20de%20pantalla%202024-01-22%20125719.png))
 ## Etapa 4. Desarrollo de la solución
 
 Proyecto creado por:
